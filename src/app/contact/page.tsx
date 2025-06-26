@@ -10,10 +10,10 @@ export default function ContactPage() {
 
       <main className="flex-grow bg-[#F9F6F2] py-20 px-6 flex flex-col items-center justify-center text-center">
         <h1 className="text-4xl font-serif font-bold text-[#4A2E2A] mb-4">
-          Let’s Connect
+        Connect with us
         </h1>
         <p className="text-lg text-[#4B4B4B] max-w-xl mb-8">
-          Whether you're a brand, partner, or chocolate innovator we’d love to hear from you.
+          Whether you are a brand, partner, or chocolate innovator we’d love to hear from you.
         </p>
 
         <div className="bg-white shadow-lg border border-[#E8E6E1] rounded-2xl p-8 w-full max-w-md">

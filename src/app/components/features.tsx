@@ -1,7 +1,6 @@
 "use client"
 
 import { Package, Cookie, IceCream } from "lucide-react"
-import Image from "next/image"
 
 const features = [
   {
